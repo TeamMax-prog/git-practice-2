@@ -3,4 +3,4 @@ new line
 line 3
 fourth line
 fourth line
-branch test line
+branch line from FEATURE
