@@ -3,6 +3,6 @@ new line
 line 3
 fourth line
 fourth line
-LINE FROM MAIN
+LINE FROM MAIN AND BRANCH
 practice line
 
