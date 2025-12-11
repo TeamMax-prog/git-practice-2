@@ -3,4 +3,6 @@ new line
 line 3
 fourth line
 fourth line
-branch test line
+LINE FROM MAIN
+practice line
+
