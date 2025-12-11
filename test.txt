@@ -3,5 +3,5 @@ new line
 line 3
 fourth line
 fourth line
-branch line from FEATURE
+LINE FROM BRANCH 
 practice line
